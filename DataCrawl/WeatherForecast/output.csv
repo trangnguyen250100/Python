@@ -1,8 +1,0 @@
-name,country,date,maxtemp_c,mintemp_c,avgtemp_c,totalprecip_mm,avghumidity,uv
-Hanoi,Vietnam,2024-12-13,14.9,13.5,14.5,0.1,64,0.3
-Hanoi,Vietnam,2024-12-14,14.0,13.5,14.1,0.23,50,0.1
-Hanoi,Vietnam,2024-12-15,19.7,14.0,16.4,0.0,39,0.2
-Hanoi,Vietnam,2024-12-16,19.3,14.7,16.3,0.0,44,0.5
-Hanoi,Vietnam,2024-12-17,23.0,13.0,17.8,0.0,40,1.2
-Hanoi,Vietnam,2024-12-18,20.2,14.9,17.2,0.03,63,4.0
-Hanoi,Vietnam,2024-12-19,23.4,17.9,20.1,0.27,78,5.0
